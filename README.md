@@ -2,7 +2,7 @@
   <tr>
    <td>
     
-   <img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Github%20pic.png" width="100"/>
+   <img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Github%20pic.png" />
    
     
    </td>

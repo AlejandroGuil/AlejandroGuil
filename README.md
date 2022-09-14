@@ -16,7 +16,8 @@ Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQ
 <img align="center"width= "350px" src="img/Prodemaster%204.png">
 <img align="left" width= "350px"  src="img/Prodemaster 5.png">
 <img align="center"width= "350px" src="img/Prodemaster 6.png">
-<img align="center"width= "350px" src="img/Prodemaster 7.png">
+<img align="left"width= "350px" src="img/Prodemaster 7.png">
+<img align="center"width= "350px" src="img/Prodemaster 8.png">
 
 Integrantes:
 
@@ -61,11 +62,13 @@ JavaScript - TypeScript - React - Node.js - Redux - Express - PostgreSQL - Seque
 #### IDIOMA
 
 -Inglés: Básico.
+
 -Chino: Básico.
 
 #### Algo más
 
 Actualmente me encuentro en la busqueda de trabajo como Desarrollador Full Stack.
+
 Vivo en la Ciudad Autónoma de Buenos Aires.
 
 #### ¡¡Listo para el próximo Srum!! ⚡

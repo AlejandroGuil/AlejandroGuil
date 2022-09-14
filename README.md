@@ -8,14 +8,24 @@ Encuentro en el desarrollo informático desafío y satisfacción, suficientes pa
 
 Aplicación web de apuestas sobre pronósticos deportivos.
 
-Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQL - Prisma
+Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQL - Prisma - ChakraUI
 
 <img align="left"  width= "350px" src="img/Prodemaster%201.png">
-<img align="center"width= "350px" src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Prodemaster%202.png">
-<img align="left" width= "350px"  src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Prodemaster%20%203.png">
-<img align="center"width= "350px" src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Prodemaster%204.png">
+<img align="center"width= "350px" src="img/Prodemaster%202.png">
+<img align="left" width= "350px"  src="img/Prodemaster%20%203.png">
+<img align="center"width= "350px" src="img/Prodemaster%204.png">
+<img align="left" width= "350px"  src="img/Prodemaster%20%205.png">
+<img align="center"width= "350px" src="img/Prodemaster%206.png">
 
 [Ir a ProdeMaster](https://prodemaster.netlify.app)
+
+## Countries Turismo
+
+Aplicación web en donde puedes visualizar Paises con sus respectivas actividades tusrísticas, crear y asignar nuevas actividades.
+
+Tecnologías: Node.js - JavaScript - React - Redux - Express - PostgreSQL - Sequelize - CSS
+
+[Ir al repositorio de Countries Turismo](https://github.com/AlejandroGuil/Countries-PI)
 
 #### ¡¡Listo para el próximo Srum!! ⚡
 

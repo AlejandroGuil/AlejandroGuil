@@ -16,6 +16,7 @@ Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQ
 <img align="center"width= "350px" src="img/Prodemaster%204.png">
 <img align="left" width= "350px"  src="img/Prodemaster 5.png">
 <img align="center"width= "350px" src="img/Prodemaster 6.png">
+<img align="center"width= "350px" src="img/Prodemaster 7.png">
 
 Integrantes:
 
@@ -37,11 +38,37 @@ Tecnologías: Node.js - JavaScript - React - Redux - Express - PostgreSQL - Sequ
 
 [Ir al repositorio de Countries Turismo](https://github.com/AlejandroGuil/Countries-PI)
 
+# Sobre mi
+
+#### CONOCIMIENTOS TECNICOS
+
+JavaScript - TypeScript - React - Node.js - Redux - Express - PostgreSQL - Sequelize - Prisma - Trello - Scrum
+
+#### OTRAS EXPERIENCIAS
+
+-Producción de obras teatrales.
+-Trabajos humanitarios con grupos excluidos socialmente.
+-Profesor de artes y recreación en un centro de salud comunitario.
+-Empleado en la fabricación de amperímetros (sector automotriz)
+
+#### EDUCACIÓN
+
+-Programador reparador de PC - Esc. Técnica 37 de la Ciudad de Buenos Aires, Argentina 2000 - 2005
+-Diseñador Industrial - Inconclusa - Universidad de Buenos Aires Argentina 2006 - 2009
+-Dirección de Arte – Centro Cultural San Martín - 2010 – 2012
+-Full Stack Developer - SoyHenry - Argentina - 2022
+
+#### IDIOMA
+
+-Inglés: Básico.
+-Chino: Básico.
+
+#### Algo más
+
+Actualmente me encuentro en la busqueda de trabajo como Desarrollador Full Stack.
+Vivo en la Ciudad Autónoma de Buenos Aires.
+
 #### ¡¡Listo para el próximo Srum!! ⚡
-
-> Más sobre mi
-
-**Negrita**
 
 Contáctame
 

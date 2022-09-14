@@ -6,7 +6,7 @@ Encuentro en el desarrollo informático desafío y satisfacción, suficientes pa
 
 ## Prodemaster - Proyecto grupal
 
-Aplicación web de apuestas sobre pronósticos deportivos.
+Aplicación web de apuestas sobre pronósticos deportivos. Brinda al usuario la posibilidad de crear y publicar sus propios torneos. Incluye: loging, autenticación de terceros, chatBot, notificaciones vía e-mail, persistencia de datos, pasarela de pagos, reviews, filtros combinados, borrado lógico y dashboard de administrador, entre otras.
 
 Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQL - Prisma - ChakraUI
 
@@ -33,7 +33,7 @@ Integrantes:
 
 ## Countries Turismo
 
-Aplicación web en donde puedes visualizar Paises con sus respectivas actividades tusrísticas, crear y asignar nuevas actividades.
+Aplicación web en donde puedes visualizar Paises con sus respectivas actividades tusrísticas, crear y asignar nuevas actividades. Consume una API externa.
 
 Tecnologías: Node.js - JavaScript - React - Redux - Express - PostgreSQL - Sequelize - CSS
 

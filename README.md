@@ -10,7 +10,13 @@ Aplicación web de apuestas sobre pronósticos deportivos.
 
 Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQL - Prisma
 
-<img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Github%20pic.png" whith="30%"/>
+<img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Captura%20de%20pantalla%20(32).png">
+
+<img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Captura%20de%20pantalla%20(33).png">
+
+<img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Captura%20de%20pantalla%20(34).png">
+
+<img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Captura%20de%20pantalla%20(35).png">
 
 [Ir a ProdeMaster](https://prodemaster.netlify.app)
 

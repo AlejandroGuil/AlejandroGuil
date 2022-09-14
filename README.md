@@ -14,8 +14,8 @@ Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQ
 <img align="center"width= "350px" src="img/Prodemaster%202.png">
 <img align="left" width= "350px"  src="img/Prodemaster%20%203.png">
 <img align="center"width= "350px" src="img/Prodemaster%204.png">
-<img align="left" width= "350px"  src="img/Prodemaster%205.png">
-<img align="center"width= "350px" src="img/Prodemaster%206.png">
+<img align="left" width= "350px"  src="img/Prodemaster 5.png">
+<img align="center"width= "350px" src="img/Prodemaster 6.png">
 
 [Ir a ProdeMaster](https://prodemaster.netlify.app)
 

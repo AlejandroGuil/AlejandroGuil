@@ -4,7 +4,7 @@ Encuentro en el desarrollo informático desafío y satisfacción, suficientes pa
 
 # Proyectos
 
-## Prodemaster
+## Prodemaster - Proyecto grupal
 
 Aplicación web de apuestas sobre pronósticos deportivos.
 
@@ -16,6 +16,16 @@ Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQ
 <img align="center"width= "350px" src="img/Prodemaster%204.png">
 <img align="left" width= "350px"  src="img/Prodemaster 5.png">
 <img align="center"width= "350px" src="img/Prodemaster 6.png">
+
+Integrantes:
+
+- Alejandro Guil. alejandro.i.guil@gmail.com
+- Diego Cerda. diegocerdacelis@hotmail.com
+- Matias Zapata. matuzapata@gmail.com
+- Nicolas De Carolis. nicodeca38@gmail.com
+- Santiago Hayase. santiagohayase@gmail.com
+- Santiago Tobar Useche. santitobar1227@gmail.com
+- Melina Maccio. Melina.maccio416@gmail.com
 
 [Ir a ProdeMaster](https://prodemaster.netlify.app)
 
@@ -35,13 +45,10 @@ Tecnologías: Node.js - JavaScript - React - Redux - Express - PostgreSQL - Sequ
 
 Contáctame
 
- <p>
-      <a href="https://www.linkedin.com/in/alejandro-guil/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
-      </a>   
-      <a align='right' href="mailto:alejandro.i.guil@gmail.com">
-         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-      </a>  
-   </p>
+<p>
+    <a href="https://www.linkedin.com/in/alejandro-guil/">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="30" width="30">
+    </a>   
+</p>
 
 alejandro.i.guil@gmail.com

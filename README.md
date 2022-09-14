@@ -16,8 +16,8 @@ Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQ
 <img align="center"width= "350px" src="img/Prodemaster%204.png">
 <img align="left" width= "350px"  src="img/Prodemaster 5.png">
 <img align="center"width= "350px" src="img/Prodemaster 7.png">
-<img align="left"width= "350px" src="img/Prodemaster 6.png">
-<img align="center"width= "350px" src="img/Prodemaster 8.png">
+<img align="left"width= "350px" src="img/Prodemaster 8.png">
+<img align="center"width= "350px" src="img/Prodemaster 6.png">
 
 Integrantes:
 

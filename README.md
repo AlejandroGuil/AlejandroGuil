@@ -14,7 +14,7 @@ Tecnologías: Node.js - TypeScript - React - Redux ToolKit - Express - PostgreSQ
 
 <img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Prodemaster%202.png">
 
-<img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Prodemaster%203.png">
+<img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Prodemaster%20%203.png">
 
 <img src="https://github.com/AlejandroGuil/AlejandroGuil/blob/main/img/Prodemaster%204.png">
 
